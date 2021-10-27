@@ -1,7 +1,7 @@
-#PROJECT DESCRIPTION:
+# PROJECT DESCRIPTION:
 This project requires building a multi-section landing page, with a dynamically updating navigational menu based on the amount of content that is added to the page.
 
-#CONTENTS OF THE PROJECT:
+# CONTENTS OF THE PROJECT:
 1- when you open the page there's already 4 sections in it adding from html.
 2- created "addSection" function using js to add more section automatically.
 3- made "Add Section" button that connected with the "addSection" function through addEventListener, 
